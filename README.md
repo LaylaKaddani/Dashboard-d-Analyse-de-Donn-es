@@ -1,6 +1,3 @@
-# Dashboard Analyse de Donnes
-Dashboard Python pour analyse qualité de l'eau 
-
 
 # 📊 Dashboard d'Analyse - Qualité de l'Eau - Alpamare Saïdia
 
