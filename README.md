@@ -32,3 +32,9 @@ pip install -r code/requirements.txt
 
 # 2. Exécuter le dashboard
 python code/dashboard_alpamare.py
+
+
+Note : Le programme nécessite un fichier Excel avec la structure spécifique.
+Pour tester, vous pouvez créer un fichier Excel minimal avec les colonnes :
+
+Métrique, Chlore Galet, Chlore Granulé, PH-, Floculent, Anti-algue, DPD1, DPD3, Redphenol
