@@ -1,21 +1,21 @@
 
-# 📊 Dashboard d'Analyse - Qualité de l'Eau - Alpamare Saïdia
+# Dashboard d'Analyse - Qualité de l'Eau - Alpamare Saïdia
 
-## 🎯 Contexte
+## Contexte
 Projet réalisé lors de mon stage d'initiation chez **Alpamare Saïdia** (juillet 2024) dans le cadre de ma formation en Génie Informatique Embarquée.
 
-## 🏢 Mission
+## Mission
 Développement d'un tableau de bord Python pour :
 - **Analyser** la qualité de l'eau des piscines
 - **Visualiser** la consommation des produits chimiques (chlore, pH-, etc.)
 - **Automatiser** le suivi des indicateurs clés
 
-## 🛠️ Technologies Utilisées
+## Technologies Utilisées
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Excel** pour la source de données
 - **PyInstaller** pour le packaging
 
-## 📈 Fonctionnalités
+## Fonctionnalités
 1. **Import automatisé** des données Excel
 2. **Nettoyage et transformation** des données
 3. **Visualisations interactives** :
@@ -24,7 +24,7 @@ Développement d'un tableau de bord Python pour :
    - Indicateurs clés (coût par client, totaux)
 4. **Export graphique** pour reporting
 
-## 🚀 Installation & Exécution
+## Installation & Exécution
 
 ```bash
 # 1. Installer les dépendances
